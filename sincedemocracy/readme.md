@@ -4,7 +4,7 @@ Simple HTML, CSS and vainilla Javascript.
 
 ## Link
 
-[Example online](img/examples/open.png)
+[Example online](https://rawcdn.githack.com/jchemile/singlepages/318c0acd7090787fbad998a8ae8b5f14115d6d8e/sincedemocracy/index.html)
 
 ## Change
 
