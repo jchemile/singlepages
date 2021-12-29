@@ -4,7 +4,7 @@ Simple HTML, CSS and Javascript project. This is part of the material reviewed i
 
 ## Image
 
-![demo](.\img\examples\demo.gif)
-C:\Users\jchemile\Documents\singlepages\50projects50days\__starter__
+![demo](./img/examples/demo.gif)
 
-[Project](LINK TO THE PROJECT)
+
+[Project](LINKTOHEPROJECT)
